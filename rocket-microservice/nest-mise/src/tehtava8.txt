@@ -1,0 +1,9 @@
+Mikropalveluiden roolit sovelluksen arkkitehtuurissa:
+Sovellus voi koostua monoliittisen arkkitehtuurin sijaan mikropalveluista.
+Jokainen mikropalvelu on erillinen pieni sovellus. Sovelluksen
+päivittäminen on helpompaa, jos käytetään mikropalveluja, koska silloin ei
+tarvitse päivittää kuin yksi mikropalvelu. Samasta syystä sovelluksen
+ominaisuuksien lisääminen ja poistaminen on vaivattomampaa. Mikropalvelut
+voivat myös käyttää toisistaan erillisiä, omia tietokantoja. Mikropalvelut
+voivat koostua eri ohjelmointikielistä. Nest mikropalvelut käyttävät
+tcp-protokollaa datan välittämiseen gatewaylle.
