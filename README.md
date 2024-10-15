@@ -1,3 +1,3 @@
 ﻿# backend1-kurssi
 
--Backend1-kurssin tehtäviä. Kurssi on suoritettu keväällä 2023 ja kurssin sisältöön kuului muun muassa expressillä toteutetun backend-sovelluksen tekeminen autentikaatiolla. Tämä repositorio ei sisällä kaikkia kurssin tehtäviä, koska tarkoitus oli lähinnä kerätä tänne vain kurssin keskeisimmät tehtävät.
+-Backend1 course tasks. The course was completed in the spring of 2023 and the content of the course included, among other things, creating a backend application implemented with Express with authentication. This repository does not contain all the assignments of the course, because the purpose was mainly to collect here only the most important assignments of the course.
